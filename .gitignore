@@ -1,0 +1,4 @@
+experiment_3.txt
+# pixi environments
+.pixi
+*.egg-info
